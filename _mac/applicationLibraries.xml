@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="redoc.standalone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_redoc_bundles_redoc.standalone.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_redoc_bundles_redoc.standalone.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

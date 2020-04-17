@@ -1,0 +1,45 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="ComposerSettings">
+        <execution>
+          <executable />
+        </execution>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="js.build_tools.grunt">
+          <node-interpreter value="project" />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
