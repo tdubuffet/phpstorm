@@ -4,6 +4,7 @@
       <mapping pattern=".dist" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sdfklsqfsmldjkfsdlkfsdmklfdsfsdjf" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".build-php" type="PLAIN_TEXT" />
       <mapping pattern=".include_files" type="PLAIN_TEXT" />
