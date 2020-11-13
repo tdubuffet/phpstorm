@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dist" type="PLAIN_TEXT" />
+      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
