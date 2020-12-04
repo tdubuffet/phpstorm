@@ -10,6 +10,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".build-php" type="PLAIN_TEXT" />
       <mapping pattern=".include_files" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="MessageIntlMarkdown" type="TypeScript" />
     </extensionMap>
   </component>
