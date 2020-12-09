@@ -2,7 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-7ba37e5a:170524fe4f8:-8000" />
     <option name="version" value="5.5.0" />
   </component>
