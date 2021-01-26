@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="bin" type="AUTO_DETECTED" />
+      <mapping pattern="clear-cache" type="AUTO_DETECTED" />
       <mapping pattern="msmtprc" type="AUTO_DETECTED" />
       <mapping pattern="sdfklsqfsmldjkfsdlkfsdmklfdsfsdjf" type="PLAIN_TEXT" />
       <mapping pattern=".vault_pass" type="PLAIN_TEXT" />
